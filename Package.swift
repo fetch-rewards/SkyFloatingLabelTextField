@@ -1,4 +1,4 @@
-// swift-tools-version:5.1
+// swift-tools-version:6.2
 
 import PackageDescription
 
@@ -19,5 +19,5 @@ let package = Package(
             path: "SkyFloatingLabelTextField/SkyFloatingLabelTextFieldTests"
         )
     ],
-    swiftLanguageVersions: [.v4_2]
+    swiftLanguageModes: [.v6]
 )
